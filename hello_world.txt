@@ -1,0 +1,1 @@
+Step no. 6 says to open hello_world.txt, add some text to it, save it, and stage it.
